@@ -1,0 +1,25 @@
+{
+    "antipastiDishes": [
+      {
+        "name": "Carpaccio Di Manzo Con Reggiano & Pesto",
+        "description": "filet mignon carpaccio",
+        "price": 20
+      },
+      {
+        "name": "Rucola & Parmigiano",
+        "description": "arugola, shaved parmesan, red wine vinaigrette",
+        "price": 13
+      },
+      {
+        "name": "Salmone Affumicato Con Capperi",
+        "description": "smoked salmon, capers, lemon, olive oil",
+        "price": 17
+      },
+      {
+        "name": "Antipasto Di Legumi All’Olio d’Oliva",
+        "description": "grilled vegetables, olive oil",
+        "price": 14
+      }
+    ]
+  }
+  

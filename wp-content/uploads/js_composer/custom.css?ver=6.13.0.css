@@ -1,0 +1,5 @@
+.sc_dishes_item_title a {
+    pointer-events: none;
+    cursor: default; /* Optional: Change cursor to indicate non-clickable */
+    color: inherit; /* Optional: keep the text color consistent */
+}
